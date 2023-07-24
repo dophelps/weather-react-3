@@ -63,6 +63,15 @@ export default function Weather() {
           </ul>
         </div>
       </div>
+      <p class="text-center mt-5">
+        <a
+          href="https://github.com/dophelps/Update-weather-react/tree/main/src"
+          target="_blank"
+        >
+          {" "}
+          Open-source code{" "}
+        </a>
+      </p>
     </div>
   );
 }
